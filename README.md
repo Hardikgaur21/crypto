@@ -1,6 +1,6 @@
-# React + Vite
+# Cryptoplace: Your Ultimate Hub for Real-Time Cryptocurrency Market Insights.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is designed to provide users with up-to-date information on the cryptocurrency market, including which cryptocurrencies are trending high or low. It leverages an API that offers a comprehensive set of data, delivering real-time updates on the 24-hour high and low values of various cryptocurrencies.
 
 ## To access the website click the link below: 
 
